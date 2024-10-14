@@ -1,0 +1,199 @@
+2019-12-08 00:10:19 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 00:10:31 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:10:47 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:10:54 [TestNG-test=Login tests using Chrome-1] ERROR BasePage:57 - Loader mask doesn't present.
+2019-12-08 00:10:57 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 00:13:22 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 00:13:33 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:13:50 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:13:58 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:14:05 [TestNG-test=Login tests using Chrome-1] ERROR BasePage:57 - Loader mask doesn't present.
+2019-12-08 00:14:15 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:14:17 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 00:14:55 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 00:15:07 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:15:25 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:15:34 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:15:41 [TestNG-test=Login tests using Chrome-1] ERROR BasePage:57 - Loader mask doesn't present.
+2019-12-08 00:15:50 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 00:15:53 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 01:15:22 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 01:15:28 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 01:15:35 [main] ERROR BasePage:57 - Loader mask doesn't present.
+2019-12-08 01:15:38 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 01:32:13 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 01:32:25 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 01:32:33 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 01:36:32 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 01:36:44 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 01:36:53 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 01:38:05 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 01:38:17 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 01:38:24 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 01:40:49 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 01:41:01 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 01:41:09 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 02:11:33 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 02:11:45 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 02:11:52 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 02:16:26 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 02:16:38 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 02:16:56 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 02:16:59 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 02:36:44 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 02:36:56 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 02:37:15 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 02:37:18 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 03:03:05 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 03:03:17 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:03:25 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 03:05:53 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 03:06:04 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:06:23 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:06:26 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 03:07:33 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 03:07:40 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:07:47 [main] ERROR BasePage:57 - Loader mask doesn't present.
+2019-12-08 03:07:56 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:08:11 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:08:31 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:08:35 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 03:09:48 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 03:09:54 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:10:10 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:10:24 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:10:43 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 03:10:46 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-12-08 04:47:54 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/12_08_2019/report.html
+2019-12-08 04:48:00 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 04:48:12 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 04:48:27 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 04:48:46 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-12-08 04:48:49 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-08-30 13:14:40 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/08_30_2024/report.html
+2024-08-30 13:15:25 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2024-08-30 13:15:41 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/08_30_2024/report.html
+2024-08-30 13:15:57 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-08-30 15:25:20 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/08_30_2024/report.html
+2024-08-30 15:26:11 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2024-08-30 15:26:29 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-08-30 15:31:34 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/08_30_2024/report.html
+2024-08-30 15:31:38 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-08-30 15:31:51 [main] ERROR BasePage:59 - Loader mask doesn't  present.
+2024-08-30 15:31:52 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-08-30 15:32:43 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/08_30_2024/report.html
+2024-08-30 15:32:47 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-08-30 15:32:55 [main] ERROR BasePage:59 - Loader mask doesn't  present.
+2024-08-30 15:32:58 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-08-30 15:35:01 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/08_30_2024/report.html
+2024-08-30 15:35:05 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-08-30 15:35:12 [main] ERROR BasePage:59 - Loader mask doesn't  present.
+2024-08-30 15:35:20 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-08-30 15:35:28 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-01 10:50:15 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/09_01_2024/report.html
+2024-09-01 10:50:19 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:50:31 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:50:38 [main] ERROR BasePage:59 - Loader mask doesn't  present.
+2024-09-01 10:50:44 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:50:48 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:50:54 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:03 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:07 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:11 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:15 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:25 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:33 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:37 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:42 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:46 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:51:54 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:52:04 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:52:08 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:52:13 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:52:14 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-01 10:55:16 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\AAA_ost\IdeaProjects\Spring2019FinalTestNGFramework/test-output/reports/09_01_2024/report.html
+2024-09-01 10:55:20 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:55:31 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 10:55:38 [main] ERROR BasePage:59 - Loader mask doesn't  present.
+2024-09-01 10:55:41 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-01 11:04:08 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\ReCreate\Spring2019FinalTestNGFramework/test-output/reports/09_01_2024/report.html
+2024-09-01 11:04:12 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-01 11:04:19 [main] ERROR BasePage:59 - Loader mask doesn't  present.
+2024-09-01 11:04:23 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-01 11:06:33 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\ReCreate\Spring2019FinalTestNGFramework/test-output/reports/09_01_2024/report.html
+2024-09-01 11:06:33 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-01 11:07:12 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\ReCreate\Spring2019FinalTestNGFramework/test-output/reports/09_01_2024/report.html
+2024-09-01 11:07:12 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:26:39 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:26:43 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:26:51 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:27:33 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:27:36 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:27:44 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:28:11 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:28:14 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:28:21 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:29:24 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:29:27 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:29:34 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:45:11 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:45:18 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:45:30 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:45:42 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:45:54 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:46:03 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:46:08 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:46:16 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:46:25 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:46:34 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:46:38 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:46:40 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:47:07 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:47:14 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:47:24 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:47:37 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:47:49 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:47:59 [TestNG-test=Login tests using Firefox-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:48:05 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:48:16 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:48:24 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:48:32 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:48:37 [TestNG-test=Login tests using Chrome-1] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:48:39 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:56:38 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:56:42 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:56:49 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:57:03 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:57:07 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:57:15 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:57:29 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:57:34 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:57:42 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:58:00 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:58:03 [main] INFO  TestBase:71 - URL: http://qa1.vytrack.com/user/login
+2024-09-10 09:58:11 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:58:50 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:58:54 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 09:59:01 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 09:59:40 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 09:59:44 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 09:59:50 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 10:00:04 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 10:00:12 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:00:12 [TestNG-tests-2] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:00:40 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:00:40 [TestNG-tests-2] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:00:52 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:01:04 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:01:14 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:01:42 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 10:01:46 [TestNG-tests-2] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:01:46 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:02:16 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:04:11 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 10:04:15 [TestNG-tests-1] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:04:15 [TestNG-tests-2] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:04:39 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2024-09-10 10:04:49 [main] INFO  TestBase:47 - Report path: C:\Users\ostur\IdeaProjects\SeleniumTestNgProj01/test-output/reports/09_10_2024/report.html
+2024-09-10 10:04:53 [main] INFO  TestBase:71 - URL: http://qa3.vytrack.com/user/login
+2024-09-10 10:05:00 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
